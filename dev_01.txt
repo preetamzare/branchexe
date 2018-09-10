@@ -1,0 +1,2 @@
+#.log
+This file was added in development phase
